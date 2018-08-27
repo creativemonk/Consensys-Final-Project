@@ -1,0 +1,12 @@
+
+Following testcases have been created in Marketplace.test.js
+
+1.	Test to check if marketplace admin/owner address is set correctly in the contract
+2.	Test to check if the user is able to request approval from members to become seller in the market place
+3.	Test to check if member is able to approve the seller request correctly
+4.	Test to check if member is recognized as member as few functions can only be performed by member
+5.	Test to check if seller is recognized as seller as seller functions can be performed only by the seller
+6.	Test to check if addresses unregistered as member or seller are recognized as customer
+
+##### Screenshot to show all 6 testcases pass
+![testpass](https://user-images.githubusercontent.com/22140752/44658047-ca9ea180-aa1c-11e8-83c5-8a75db40b89b.png)
