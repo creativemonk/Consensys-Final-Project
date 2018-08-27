@@ -14,3 +14,38 @@ This project is to create an online marketplace that operates on ethereum blockc
 
 #### Frontend View
 ![localhost_metamask](https://user-images.githubusercontent.com/22140752/44655651-8e1a7800-aa13-11e8-9ae0-1c367843a36f.png)
+
+## Implemented in this Marketplace Project (Refer Project Documentation Folder for details)
+1. Truffle Framework
+2. Application uses ganache
+3. Web application uses metamask
+4. Implementation of zeppelin package via EthPM
+5. 6 testcases to test the smart contract usecases
+6. Design patterns
+7. Measures to protect smart contract from comman attacks
+8. Serve the UI from IPFS
+
+
+## Project Documentation
+
+### 1. Project Requirements
+      Consensys-Final-Project/Project Documentation/Project Requirements.md
+    
+### 2. To setup the project on your local machine 
+      Consensys-Final-Project/Project Documentation/How to setup the Marketplace.md
+
+### 3. Development server
+      Consensys-Final-Project/Project Documentation/Development Server.md
+      
+### 4. Library implementation - EthPM
+      Consensys-Final-Project/Project Documentation/Implement a library_Package.md
+    
+### 5. Design Patterns
+      Consensys-Final-Project/Project Documentation/Design Patterns.md
+
+### 6. Common Attacks
+      Consensys-Final-Project/Project Documentation/Common Attacks.md
+    
+### 7. IPFS implementation
+      Consensys-Final-Project/Project Documentation/IPFS implementation.md
+    
